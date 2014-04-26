@@ -1194,7 +1194,7 @@ GtkModelButton.button:selected {
 }
 
 .notebook tab:active {
-    background-color: transparent;
+    background-color: @theme_selected_fg_color;
     background-image: none;
 }
 
