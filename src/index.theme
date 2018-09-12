@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Numix
+Name=Numix-Complement
 Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Numix
-IconTheme=Numix
-MetacityTheme=Numix
+GtkTheme=Numix-Complement
+IconTheme=Numix-Complement
+MetacityTheme=Numix-Complement
 ButtonLayout=:minimize,maximize,close
