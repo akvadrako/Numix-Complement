@@ -1,0 +1,139 @@
+@import url("/usr/share/gnome-shell/theme/ubuntu.css");
+/* Override all instances of #dd4814, #e95420, #bb3e11 */
+
+.button:focus {
+    box-shadow: inset 0px 0px 0px 1px #37c4d6; }
+
+.button:active {
+    background-color: #37c4d6; }
+
+.modal-dialog-linked-button:active {
+    background-color: #37c4d6; }
+
+.modal-dialog-linked-button:focus {
+    box-shadow: inset 0px 0px 0px 1px #37c4d6; }
+
+StEntry {
+    selection-background-color: #37c4d6; }
+
+StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
+      background-color: #37c4d6; }
+
+.slider {
+  -slider-active-background-color: #37c4d6;
+  -slider-active-border-color: #37c4d6; }
+
+.audio-selection-device:active, .audio-selection-device:hover, .audio-selection-device:focus {
+    background-color: #37c4d6; }
+
+.popup-menu .popup-menu-item:active {
+      background-color: #37c4d6; }
+
+.switcher-arrow:highlighted {
+    color: #37c4d6; }
+
+.cycler-highlight {
+  border: 5px solid #37c4d6; }
+
+.ws-switcher-active-up, .ws-switcher-active-down {
+  background-color: #37c4d6; }
+
+.tile-preview {
+  background-color: rgba(55, 196, 214, 0.5);
+  border: 1px solid #37c4d6; }
+
+.events-section-title:active {
+  background-color: #37c4d6; }
+
+.calendar-day-base:active, .calendar-day-base:selected {
+    background-color: #37c4d6; }
+
+.system-menu-action:active {
+    background-color: #37c4d6; }
+
+.nm-dialog-item:selected {
+  background-color: #37c4d6; }
+
+.window-clone-border {
+  border: 4px solid #37c4d6;
+  box-shadow: inset 0px 0px 0px 1px #37c4d6; }
+
+.window-caption {
+  background-color: #37c4d6; }
+
+.search-entry:focus {
+    border-color: #37c4d6; }
+
+.app-view-control:checked {
+    background-color: #37c4d6; }
+
+.app-well-app-running-dot {
+  background-color: #37c4d6; }
+
+.workspace-thumbnail-indicator {
+  border: 4px solid #37c4d6; }
+
+.summary-source-counter {
+  background-color: #37c4d6; }
+
+.magnifier-zoom-region {
+  border: 2px solid #37c4d6; }
+
+.keyboard-key:focus {
+    box-shadow: inset 0px 0px 0px 1px #37c4d6; }
+
+.keyboard-key:active {
+    background-color: #37c4d6; }
+
+.keyboard-key.enter-key {
+    border-color: #37c4d6;
+    background-color: #37c4d6; }
+
+.candidate-box:selected, .candidate-box:hover {
+    background-color: #37c4d6; }
+
+.login-dialog .modal-dialog-button:default:active {
+        background-color: #37c4d6;
+        border-color: #37c4d6; }
+
+.login-dialog-user-list:expanded .login-dialog-user-list-item:selected {
+    background-color: #37c4d6; }
+.login-dialog-user-list:expanded .login-dialog-user-list-item:logged-in {
+    border-right: 2px solid #37c4d6; }
+
+.switcher-list .item-box:outlined {
+  color: #37c4d6;
+  border: 2px solid #37c4d6;
+}
+.switcher-list .item-box:selected {
+  background-color: #37c4d6; }
+
+.message-list-clear-button.button:active {
+  background-color: #37c4d6
+}
+
+.notification-banner .notification-button:active {
+  background-color: #37c4d6;
+}
+
+#LookingGlassDialog .notebook-tab:selected {
+      border-color: #37c4d6; }
+
+#panel {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-gradient-direction: none !important;
+}
+
+#panel.solid {
+    background-color: #444;
+}
+
+#panel.solid .panel-corner {
+    -panel-corner-background-color: #444;
+}
+
+#panel .panel-corner:active, #panel .panel-corner:overview, #panel .panel-corner:focus {
+      -panel-corner-border-color: #37c4d6; }
+
+#panel .panel-button:active, #panel .panel-button:overview, #panel .panel-button:focus, #panel .panel-button:checked {
+      box-shadow: inset 0 -2px 0px #37c4d6; }
