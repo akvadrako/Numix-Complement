@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker run --rm -v $(pwd):/build mzur/numix
+docker run --rm -v $PWD:/build -u $UID:$UID mzur/numix
